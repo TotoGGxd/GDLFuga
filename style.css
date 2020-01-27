@@ -1,0 +1,17 @@
+body{
+    background-image: url(https://www.talent-land.mx/wp-content/uploads/2019/04/bg-08-2020-3.jpg);
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div{
+    text-align: center;
+    margin-top: 15%;
+}
+
+@media only screen and (min-width: 1080px){
